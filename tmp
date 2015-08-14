@@ -17,4 +17,8 @@ djf
 #
 test
 test2
+<<<<<<< HEAD
 test4
+=======
+test3
+>>>>>>> cbd4df7c627d807d5ded742e1d467aaf1d3d3531
